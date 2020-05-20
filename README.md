@@ -14,3 +14,8 @@ https://github.com/Curtico
 # Decimal2Binary.out
 Courtesy of Programiz
 https://www.programiz.com/cpp-programming
+
+
+# Calculator.out
+Courtesy of Me
+https://github.com/Zany-Zachary1
